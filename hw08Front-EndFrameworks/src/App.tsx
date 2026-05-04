@@ -64,9 +64,8 @@ function App() {
     <main className="app-shell">
       <section className="hero-section">
         <div>
-          <span className="eyebrow">Physiotherapy center</span>
+          <span className="eyebrow">SER SALUD</span>
           <h1>Appointment dashboard</h1>
-          <p>Organize therapy sessions, rooms, specialists, and patient contact details from one connected MongoDB table.</p>
         </div>
         <div className="summary-panel">
           <span>Total appointments</span>
