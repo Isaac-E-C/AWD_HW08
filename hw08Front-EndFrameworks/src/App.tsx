@@ -79,7 +79,6 @@ function App() {
         <AppointmentForm onCreateAppointment={handleCreateAppointment} />
         <section className="appointments-panel">
           <div className="section-heading">
-            <span>MongoDB records</span>
             <h2>Scheduled appointments</h2>
           </div>
           <AppointmentTable appointments={appointments} isLoading={isLoading} />
